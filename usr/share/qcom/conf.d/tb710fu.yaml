@@ -1,0 +1,3 @@
+machines:
+  "Lenovo Xiaoxin Pad Pro GT":
+    DSP_LIBRARY_PATH: "/sm8650/Lenovo/TB710FU/"

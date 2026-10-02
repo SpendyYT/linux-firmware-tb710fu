@@ -1,0 +1,1 @@
+{"lsm6dsv_1_platform.hs":{"owner":"lsm6dsv","config":{"type":"grp","ver":"0","data":""}}}

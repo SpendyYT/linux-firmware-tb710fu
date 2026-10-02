@@ -1,0 +1,9 @@
+version=1
+file=hw_platform=/usr/share/qcom/sm8650/Lenovo/TB710FU/socinfo/hw_platform
+file=platform_subtype=/usr/share/qcom/sm8650/Lenovo/TB710FU/socinfo/platform_subtype
+file=platform_subtype_id=/usr/share/qcom/sm8650/Lenovo/TB710FU/socinfo/platform_subtype_id
+file=platform_version=/usr/share/qcom/sm8650/Lenovo/TB710FU/socinfo/platform_version
+file=soc_id=/usr/share/qcom/sm8650/Lenovo/TB710FU/socinfo/soc_id
+file=revision=/usr/share/qcom/sm8650/Lenovo/TB710FU/socinfo/revision
+file=output=/usr/share/qcom/sm8650/Lenovo/TB710FU/registry
+file=config=/usr/share/qcom/sm8650/Lenovo/TB710FU/config
